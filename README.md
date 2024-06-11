@@ -4,3 +4,8 @@
 <div style="text-align: center;">
     <img src="https://www.sciencefacts.net/wp-content/uploads/2023/08/DNA-Structure.jpg" alt="drawing" width="400"/>
 </div>
+
+
+
+
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
