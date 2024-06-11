@@ -17,7 +17,7 @@
 # Índice 
 
 * [Título e Imagem de capa](#Título-e-Imagem-de-capa)
-* [Badges](###badges)
+* [Badges](#badges)
 * [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Status do Projeto](#status-do-Projeto)
@@ -30,6 +30,6 @@
 * [Conclusão](#conclusão)
 
 
-### badges
+# badges
 
 Testando aqui...
